@@ -1,0 +1,8 @@
+/* Styles go here */
+.bg {
+  background-image: url('../abra-logo.png');
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
